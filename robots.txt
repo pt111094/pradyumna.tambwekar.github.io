@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pradyumna.tambwekar.github.io/home/sitemap.xml
+Sitemap: https://pradyumna.tambwekar.github.io/sitemap.xml
